@@ -1,0 +1,9 @@
+classes = 8
+train  = /home/tklokkeshver/MasterThesis/darknet/build/darknet/x64/data/train.txt
+valid = /home/tklokkeshver/MasterThesis/darknet/build/darknet/x64/data/valid.txt
+names = /home/tklokkeshver/MasterThesis/darknet/build/darknet/x64/data/obj.names
+backup = /home/tklokkeshver/MasterThesis/darknet/build/darknet/x64/backup/full
+
+
+
+
